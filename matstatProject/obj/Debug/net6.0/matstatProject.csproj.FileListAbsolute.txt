@@ -1,0 +1,15 @@
+D:\Программы\Repositories\matstat\matstatProject\bin\Debug\net6.0\matstatProject.exe
+D:\Программы\Repositories\matstat\matstatProject\bin\Debug\net6.0\matstatProject.deps.json
+D:\Программы\Repositories\matstat\matstatProject\bin\Debug\net6.0\matstatProject.runtimeconfig.json
+D:\Программы\Repositories\matstat\matstatProject\bin\Debug\net6.0\matstatProject.dll
+D:\Программы\Repositories\matstat\matstatProject\bin\Debug\net6.0\matstatProject.pdb
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.csproj.AssemblyReference.cache
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.AssemblyInfoInputs.cache
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.AssemblyInfo.cs
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.csproj.CoreCompileInputs.cache
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.dll
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\refint\matstatProject.dll
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.pdb
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\matstatProject.genruntimeconfig.cache
+D:\Программы\Repositories\matstat\matstatProject\obj\Debug\net6.0\ref\matstatProject.dll
